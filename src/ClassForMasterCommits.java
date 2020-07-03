@@ -1,5 +1,5 @@
 public class ClassForMasterCommits {
     public static void main(String[] args) {
-        System.out.println("Hello my dear friend!");
+        System.out.println("We are happy to welcome you!");
     }
 }
